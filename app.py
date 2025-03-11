@@ -58,7 +58,7 @@ st.write("""
    streamlit
    pandas
    matplotlib
-   seaborn ```
+   seaborn```
 
 
 5. **Host on GitHub**:
