@@ -22,6 +22,7 @@ Your app should meet the following requirements:
 2. **Dashboard Visuals**:
    - Include **at least four visualizations** to help users understand key insights from your dataset.
    - Suggested charts: line charts, bar charts, histograms, pie charts, maps, scatter plots, etc.
+   - Include discussion on insights that you obtain from the charts.
 3. **Interactive Elements**:
    - Include **at least two advanced interactive components** (e.g., sliders, checkboxes, radio buttons, or dropdown menus).
    - These components should allow users to explore different parts of the data dynamically.
